@@ -1,6 +1,6 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm <span style="color:#70a1ff;">Fewdev1122</span></h1>
-<h3 align="center">💻 Web App Developer | ICT Student | Front-End Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#70a1ff;">Few</span></h1>
+<h3 align="center">💻 Web App Developer | Comsci Student | Front-End - Back-End</h3>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -9,9 +9,8 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **Web App Dev1122**
+- 🔭 I’m currently working on **WebApp Dev**
 - 🌱 Learning **React, Node.js, and Cloud Computing**
-- 🎓 Student ID: **67024841**
 - 💬 Ask me about **HTML, CSS, JS, or web development**
 - ⚡ Fun fact: I love minimal design & clean UI!
 
