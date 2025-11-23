@@ -8,14 +8,6 @@
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working on **WebApp Dev**
-- 🌱 Learning **React, Node.js, and Cloud Computing**
-- 💬 Ask me about **HTML, CSS, JS, or web development**
-- ⚡ Fun fact: I love minimal design & clean UI!
-
----
-
 ### 🧠 Tech Stack
 
 <p align="center">
