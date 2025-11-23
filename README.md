@@ -18,5 +18,6 @@
 
 <p align="center">
   🌈 <em>“Never stop learning.”</em>
+  <em>"Don't say you can't do it until you've tried."</em>
 </p>
 
