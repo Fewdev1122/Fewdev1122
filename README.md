@@ -16,13 +16,6 @@
 
 ---
 
-### 🧩 Top Languages
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fewdev1122&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
 <p align="center">
   🌈 <em>“Never stop learning.”</em>
 </p>
