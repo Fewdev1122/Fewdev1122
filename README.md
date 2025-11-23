@@ -22,20 +22,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,figma,vscode,Flask&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-0A66C2?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fewdev1122&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fewdev1122&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🧩 Top Languages
@@ -44,11 +30,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fewdev1122&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-
-
----
 
 <p align="center">
   🌈 <em>“Never stop learning.”</em>
