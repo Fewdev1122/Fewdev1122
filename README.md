@@ -20,4 +20,3 @@
   🌈 <em>“Never stop learning.”</em> </br>
   <em>"Don't say you can't do it until you've tried."</em>
 </p>
-หหหห
