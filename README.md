@@ -25,8 +25,7 @@
 <img src="https://streak-stats.demolab.com?user=Fewdev1122&theme=transparent&hide_border=true&mode=daily&date_format=M%20j" width="47%" />
 
 ### 🔤 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fewdev1122&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=6" width="47%" />
+<img src="https://raw.githubusercontent.com/Fewdev1122/github-readme-stats/master/generated/languages.svg" width="47%" />
 
 </div>
 
