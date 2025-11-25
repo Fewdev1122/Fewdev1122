@@ -28,10 +28,9 @@
 ---
 
 <div align="center">
-
-
 ### Top Languages
 <img src="https://github-readme-stats-brown-three.vercel.app/api/top-langs/?username=Fewdev1122&layout=compact&theme=transparent&hide_title=true&hide_border=true" width="47%" />
+
 
 
 </div>
