@@ -16,15 +16,19 @@
 
 ---
 
-**<h3 align="left">GitHub Stats</h3>**
+<div align="center">
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fewdev1122&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Fewdev1122&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fewdev1122&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+### 📊 GitHub Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fewdev1122&theme=transparent&hide_title=true&show_icons=false&hide_border=true&include_all_commits=true&count_private=true" width="47%" />
+
+<img src="https://streak-stats.demolab.com?user=Fewdev1122&theme=transparent&hide_border=true&mode=daily&date_format=M%20j" width="47%" />
+
+### 🔤 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fewdev1122&layout=compact&theme=transparent&hide_title=true&hide_border=true&langs_count=6" width="47%" />
+
+</div>
 
 <p align="center">
   🌈 <em>“Never stop learning.”</em> </br>
