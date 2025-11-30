@@ -25,12 +25,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 </p>
 
----
+
 #### Git Stats
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=Fewdev1122&layout=compact&theme=transparent&hide_title=true&hide_border=true" width="47%"/>
 </div>
----
+
 
 ### Top Languages
 <div align="center">
