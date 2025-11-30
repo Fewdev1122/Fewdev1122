@@ -30,13 +30,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Fewdev1122&theme=react&hide_title=true&show_icons=true&count_private=true&line_height=21" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Fewdev1122&layout=compact&theme=transparent&hide_title=true&hide_border=true" width="300"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Fewdev1122&theme=react&hide_border=true&mode=daily" width="300"/>
+      <img src="https://streak-stats.demolab.com/?user=Fewdev1122&layout=compact&theme=transparent&hide_title=true&hide_border=true" width="300"/>
     </td>
   </tr>
 </table>
+
 
 
 ### Top Languages
