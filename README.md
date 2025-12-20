@@ -24,7 +24,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 </p>
-
+    
 ---
 
 ### Top Languages
