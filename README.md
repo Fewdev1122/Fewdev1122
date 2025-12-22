@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <span style="color:#70a1ff;">Few</span></h1>      
-<h3 align="center">💻 Web App Developer | Comsci Student | Front-End - Back-End</h3>                  
+<h3 align="center">💻 Web App Developer | Comsci Student | Front-End - Back-End</h3>                    
      
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />          
