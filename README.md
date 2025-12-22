@@ -3,7 +3,7 @@
 <h3 align="center">💻 Web App Developer | Comsci Student | Front-End - Back-End</h3>                  
      
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />        
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />          
 </p>
    
 --- 
