@@ -13,7 +13,7 @@
 #### Front-end
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />  
-</p>
+</p>  
 
 #### Back-end
 <p align="left">
