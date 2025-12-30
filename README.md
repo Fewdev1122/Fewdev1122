@@ -20,6 +20,11 @@
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
 </p> 
 
+#### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+</p> 
+
 #### Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />    
