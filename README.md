@@ -22,7 +22,7 @@
 
 #### Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sqlite,supabase&theme=dark" />
 </p> 
 
 #### Tools
