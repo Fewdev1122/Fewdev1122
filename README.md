@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm <span style="color:#70a1ff;">Few</span></h1>          
+<h1 align="center">👋 Hi, I'm <span style="color:#70a1ff;">Few</span></h1>           
 <h3 align="center">💻 Web App Developer | Comsci Student | Front-End - Back-End</h3>                     
           
 <p align="center">   
