@@ -17,7 +17,7 @@
 
 #### Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,express&theme=dark" />
 </p> 
 
 #### Database
